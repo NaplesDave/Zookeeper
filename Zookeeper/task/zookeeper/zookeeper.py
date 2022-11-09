@@ -1,3 +1,8 @@
+# JetBrains Academy Python Project
+# Zookeeper
+# David King Nov 9, 2022
+
+
 camel = r"""
 Switching on the camera in the camel habitat...
  ___.-''''-.
